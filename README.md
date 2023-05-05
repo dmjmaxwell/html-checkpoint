@@ -1,1 +1,1 @@
-This is my checkpoint assignment.
+This is my css checkpoint assignment.
